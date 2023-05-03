@@ -14,9 +14,9 @@ export default {
       title: 'Photo of location',
     },
     {
-      name: 'geolocation',
-      type: 'geopoint',
-      title: 'Pin location',
+      title: 'Google Maps Link',
+      name: 'googleMapsUrl',
+      type: 'url',
     },
     {
       title: 'Content',
